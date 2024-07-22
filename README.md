@@ -97,8 +97,3 @@ pip install numpy pandas scikit-learn
 ## License 
 
 This project is licensed under the MIT License.
-
-
-```bash
-This README file provides a comprehensive guide to the project, including its structure, how to run the scripts, a description of the dataset, and an explanation of the code and techniques used to mitigate overfitting.
-```
